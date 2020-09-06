@@ -1,0 +1,24 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "bhagavanthaAppTestServer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suchitra-s/bhagavanthatestserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suchitra-s/bhagavanthatestserver/issues"
+  },
+  "homepage": "https://github.com/Suchitra-s/bhagavanthatestserver#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "xml2json": "^0.12.0"
+  }
+}
